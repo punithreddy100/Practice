@@ -1,2 +1,4 @@
 # demo
-# practive for Git
+
+practive for Git
+changes made in Git
